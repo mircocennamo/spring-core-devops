@@ -12,5 +12,7 @@ public class SpringCoreDevOpsApplication {
 		//this is a whitespace change test
 		// another test...
         //TEST CI Jenkins
+        // TEST payload url http://54.194.156.240:8080/github-webhook/
+        // fa una push su jenkins che fa partire la build  (push)
 	}
 }
